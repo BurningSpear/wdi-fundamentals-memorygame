@@ -1,0 +1,105 @@
+body {
+font-size: 18px;
+font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+text-transform: uppercase;
+border-bottom: 4px solid black;
+display: inline-block;
+font-weight: 800;
+}
+
+ img {
+display: block;
+margin: 0 auto;
+}
+ 
+ul {
+list-style: none;
+margin: 0;
+padding: 0;
+}
+
+footer {
+text-align: center;
+padding: 18px 0;
+}
+
+nav a { 
+text-decoration: none; 
+color: black; 
+margin: 13px 30px;
+display: inline-block
+}
+
+nav { 
+font-size: 24px; 
+float: right; 
+} 
+
+.about { 
+float: left; 
+} 
+
+.services { 
+float: right;
+}
+
+footer { 
+text-align: center; 
+padding: 18px 0; 
+clear: both; 
+} 
+
+div { 
+font-size: 20px; 
+width: 46%;
+padding: 2%;
+display: inline-block; 
+} 
+
+li { 
+float: left; 
+width: 50%; 
+height: 96px; 
+outline: 3px solid #222222;
+text-align: center;
+line-height: 96px;
+}
+
+img {
+display: block;
+margin: 0 auto;
+width: 480px;	
+}
+
+.hero {
+width: 100%;
+display: block;
+margin: 0;
+}
+
+section {
+background: #222222;
+color: white;
+overflow: auto;
+}	
+
+h2 {
+font-size: 24px;
+padding: 13px 0;
+color: #fffebb;
+border-bottom-color: #fffebb;
+}
+
+li { 
+float: left; 
+width: 50%; 
+height: 96px;
+outline: 3px solid #222222; 
+text-align: center;
+line-height: 96px;
+color: black;
+background: white;
+}
